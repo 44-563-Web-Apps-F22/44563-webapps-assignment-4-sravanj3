@@ -98,3 +98,11 @@ h,td{
     border-bottom: 7px double rgba(255, 255, 0, 0.849);
     border-left: 15px inset rgba(255, 255, 0, 0.852);
 }
+
+.GIR{
+    text-shadow: 2px 2px 2px orange;
+}
+
+.ALT{
+    text-shadow: 3px 3px 3px red;
+}
