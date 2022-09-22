@@ -29,24 +29,53 @@
     font-style: normal;
 }
 
+.CHO:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
+
 .BLA{
     color:green;
     font-size: medium;
     font-style: normal;
 }
 
+.BLA:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 .ALL{
     color: burlywood;
     font-size: medium;
     font-style: normal;
 }
 
+.ALL:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 .SAC{
     color: slateblue;
     font-size: medium;
     font-style: normal;
 }
 
+.SAC:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 .CHL{
     color: goldenrod;
     font-size: medium;
@@ -59,16 +88,38 @@
     font-style: normal;
 }
 
+.GIR:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 .ALT{
     color:greenyellow;
     font-size: medium;
     font-style: normal;
 }
 
+.ALT:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 .SOP{
     color:olivedrab;
     font-size: medium;
     font-style: normal;
+}
+
+.SOP:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
 }
 table{
     border-style: solid;
